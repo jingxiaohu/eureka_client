@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-context:1.1.4.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/tool/gradle-3.5-bin/gradle-3.5/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/1.1.4.BUILD-SNAPSHOT/764e9badf923e84678dab84170269f7ad884e2e2/spring-cloud-context-1.1.4.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/tool/gradle-3.5-bin/gradle-3.5/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/1.1.4.BUILD-SNAPSHOT/ab0ff2327d2af02d31c3874dc6e71167e2264c82/spring-cloud-context-1.1.4.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

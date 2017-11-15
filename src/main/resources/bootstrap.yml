@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: eureka_test_aplication
+  cloud:
+    config:
+      uri: ${CONFIG_SERVER_URL:http://localhost:8888}
+      failFast: true
+
